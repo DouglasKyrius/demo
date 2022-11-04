@@ -1,14 +1,21 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "products": [
+       {
+          "id": "ghost-whey-x-oreo",
+          "name": "Ghost Whey X Oreo",
+          "details": "A new WHEY to celebrate one of the greatest collabs of all time! GHOST® WHEY x OREO® ”BIRTHDAY CAKE” gives you a reason to party like it's your birthday. Make a wish. Get a scoop. Repeat.🎂",
+          "price": "$44.99",
+          "image": "https://cdn.shopify.com/s/files/1/2060/6331/products/WheyOreoBdayCake.png?v=1658764701"
+        },
+      {
+          "id": "ghost-whey-vegan",
+          "name": "GHOST® Vegan Protein",
+          "details": "GHOST Vegan Protein combines a premium, fully disclosed vegan protein blend with industry-leading flavors...what more could you ask for?",
+          "price": "$49.99",
+          "image": "https://cdn.shopify.com/s/files/1/2060/6331/products/Vegan.png?v=1574882358"
+        }
   ],
   "profile": {
-    "name": "typicode"
+    "name": "douglaskyrius"
   }
 }
